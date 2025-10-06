@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 💡 I’m **Eng. Mohammed Sweileh**, a **Full-Stack Developer** passionate about creating intelligent, secure, and user-friendly systems.  
-🚀 With 15+ years of experience, I specialize in **C#, Python, Flutter, AI, and Data Systems** — turning complex ideas into functional software.
+🚀 With 3+ years of experience, I specialize in **C#, Python, Flutter, AI, and Data Systems** — turning complex ideas into functional software.
 
 > “I believe technology should simplify life, not complicate it.”
 
@@ -65,9 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweileh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sweileh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
 
